@@ -1,0 +1,9 @@
+*.e
+*.dat
+*.txt
+*.swp
+Files_*/*
+.DS_Store
+EoS
+EoS.*
+
